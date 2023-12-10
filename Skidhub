@@ -251,4 +251,4 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 })
 end
 
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Mrpopcatfrombupge/Cpsneon/main/CPS%20NEON%20HUB')))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Somerandomidiot/Lua/main/PS99_Protected.txt"))()
