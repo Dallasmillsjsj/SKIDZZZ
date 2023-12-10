@@ -251,4 +251,5 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 })
 end
 
+loadstring(game:HttpGet("https://scriptblox.com/raw/Blade-Ball-Ln-Hub-V3-Updated-8220"))()
 
