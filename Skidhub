@@ -239,14 +239,14 @@ end)
 if game.Players.LocalPlayer == user_premium__001 then
 game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "Premium Loaded";
-	Text = "";
+	Text = "MADE BY CRESTEDGOAT";
 	Time = 10;
 	Icon = "rbxassetid://505845268";
 })
 else
 game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "No Premium!";
-	Text = "D:";
+	Text = "MADE BY CRESTEDGOAT:";
 	Time = 10;
 })
 end
