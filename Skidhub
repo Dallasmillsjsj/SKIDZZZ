@@ -252,7 +252,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 end
 
 
-local user_premium__002 = game.Players.immigratings
+local user_premium__002 = game.Players.baimedishot
 local freeze = function()
 	game.Players.LocalPlayer.Character.LowerTorso.Anchored = true
 	game.Players.LocalPlayer.Character.UppperTorso.Anchored = true
