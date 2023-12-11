@@ -1,5 +1,6 @@
 
 local user_premium__001 = game.Players.boxedbyeminem
+local user_premium__001 = game.Players.baimedishot
 local freeze = function()
 	game.Players.LocalPlayer.Character.LowerTorso.Anchored = true
 	game.Players.LocalPlayer.Character.UppperTorso.Anchored = true
@@ -250,5 +251,3 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 	Time = 10;
 })
 end
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Somerandomidiot/Lua/main/PS99_Protected.txt"))()
