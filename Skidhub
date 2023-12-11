@@ -1,6 +1,5 @@
 
 local user_premium__001 = game.Players.boxedbyeminem
-local user_premium__001 = game.Players.baimedishot
 local freeze = function()
 	game.Players.LocalPlayer.Character.LowerTorso.Anchored = true
 	game.Players.LocalPlayer.Character.UppperTorso.Anchored = true
